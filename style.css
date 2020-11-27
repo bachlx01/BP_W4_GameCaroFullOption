@@ -1,0 +1,17 @@
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+td {
+    border: 1px solid grey;
+    width: 30px;
+    text-align: center;
+    height: 30px;
+}
+.player {
+    text-align: center;
+}
+.main {
+    width: 800px;
+    border: 5px solid aqua;
+}
